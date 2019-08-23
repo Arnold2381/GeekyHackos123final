@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1049290899963",
+    "firebase_url": "https://appfirebaseproject-de48e.firebaseio.com",
+    "project_id": "appfirebaseproject-de48e",
+    "storage_bucket": "appfirebaseproject-de48e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049290899963:android:d8fd5d3ec7740cc3",
+        "android_client_info": {
+          "package_name": "com.abhay.com.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049290899963-9fpkoke0l1aca2dnv9ts78a7ghhu0hc5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhay.com.app",
+            "certificate_hash": "beeb8a6de8901848e346491b68cecd239922199b"
+          }
+        },
+        {
+          "client_id": "1049290899963-kpqjs4fa9ia1ldvqfhj0t0cgj3e079rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYKutuy5aNc89ndEKBSgpmJlCdn1dpoNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049290899963-kpqjs4fa9ia1ldvqfhj0t0cgj3e079rm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
